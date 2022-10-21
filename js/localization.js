@@ -2,9 +2,9 @@ String.toLocaleString({
 
 	"it": {
     "%game-intro"           : "Join the <strong>Cupcakes!</strong>",
-    "%restart-button"       : "Play Again",
+    "%restart-button"       : "Restart From Beginning?",
     "%keep-playing-button"  : "Keep going",
-    "%retry-button"         : "Retry",
+    "%retry-button"         : "Go Again?",
     "%game-won"             : "You win!",
     "%game-over"            : "L Bozo!",
     "%game-explanation"     : "<strong class=\"important\">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same symbol touch, they <strong>get promoted!</strong>",
@@ -44,12 +44,12 @@ String.toLocaleString({
 
   "en": {
     "%game-intro"           : "Join the <strong>Cupcakes!</strong>",
-    "%restart-button"       : "Play Again",
+    "%restart-button"       : "Restart From Beginning?",
     "%keep-playing-button"  : "Keep going",
-    "%retry-button"         : "Replay",
+    "%retry-button"         : "Go Again?",
     "%game-won"             : "You win!",
     "%game-over"            : "L Bozo!",
-    "%game-explanation"     : "<strong class=\"important\">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same symbol touch, they <strong>get promoted! In this version you can instantly spawn with the 128 one, (chocolate spider web), I think its a 15% chance so it isn't op to the point where it isn't fun at all.</strong>",
+    "%game-explanation"     : "<strong class=\"important\">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same symbol touch, they <strong>get promoted! 128 straight up?, 15% so I doesn't ruin the game.</strong>",
     "%disclaimer"           : "<strong class=\"important\">Note:</strong> This site <a href=\"http://git.io/cupcakes\">git.io/cupcakes</a> is a spin-off of the official version of <a href=\"http://git.io/2048\">2048</a> created by <a href=\"http://gabrielecirulli.com\" target=\"_blank\">Gabriele Cirulli</a>.",
     "%credits"              : "Cupcakes images by <a href=\"http://www.georgetowncupcake.com/\" title=\"Georgetown Cupcake | DC Cupcakes | About\">Georgetown Cupcake</a>.",
     "%tweet1"               : "I scored \"",
